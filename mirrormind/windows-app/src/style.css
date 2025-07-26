@@ -1,0 +1,36 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #282c34;
+  color: white;
+}
+
+.input-container {
+  margin: 20px;
+}
+
+input {
+  padding: 10px;
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+#reflection-container {
+  margin-top: 20px;
+}
+
+.error-text {
+  color: red;
+}
+
+img {
+  width: 256px;
+  height: 256px;
+  margin-bottom: 20px;
+}
