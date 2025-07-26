@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+openai
+text2emotion
+python-multipart
+pytest
+emoji==1.7.0

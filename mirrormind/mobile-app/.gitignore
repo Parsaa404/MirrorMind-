@@ -1,0 +1,26 @@
+# Node
+node_modules/
+
+# Metro
+.metro-cache/
+
+# Xcode
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.xcworkspace
+!default.xcworkspace
+*.moved-aside
+DerivedData
+.idea/
+
+# Android
+.gradle/
+build/
+captures/
+.idea/
+local.properties
